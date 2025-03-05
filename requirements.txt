@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 yt-dlp
 pydub
 librosa
 numpy
+=======
+yt-dlp
+pydub
+librosa
+numpy
+>>>>>>> ea78586e4bf80c65f57bc2e1d529b6fbc0e3fdd3
 matplotlib
