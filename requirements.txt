@@ -1,0 +1,5 @@
+yt-dlp
+pydub
+librosa
+numpy
+matplotlib
