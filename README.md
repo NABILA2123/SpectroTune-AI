@@ -21,7 +21,9 @@ Notre Modèle analyse les couches musicales et extrait les tendances actuelles.
 Clone the repository:  
 
 git clone https://github.com/NABILA2123/SpectroTune-AI.git
-cd spectrotune-ai
+
+cd SpectroTune-AI
+
 Install dependencies:
 
 pip install -r requirements.txt
