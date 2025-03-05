@@ -8,6 +8,8 @@ SpectroTune AI is a project that scrapes trending songs from YouTube, generates 
 </p>
 ➡️  
 Notre Modèle analyse les couches musicales et extrait les tendances actuelles.
+
+
 ## 🚀 Features  
 - Scrapes top songs from YouTube using **yt-dlp**  
 - Converts audio to spectrogram images using **Librosa & Matplotlib**  
